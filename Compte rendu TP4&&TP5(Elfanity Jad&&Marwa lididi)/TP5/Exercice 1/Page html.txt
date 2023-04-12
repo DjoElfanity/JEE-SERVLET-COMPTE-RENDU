@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+</head>
+<body>
+Gestion aléatoire des chiffres  <br> <br>
+
+<form action="controleur" method="get">
+
+Valeur max : <input type="number" name="valeur"> <br> <br>
+<input type="submit" value="Afficher">
+</form>
+</body>
+</html>

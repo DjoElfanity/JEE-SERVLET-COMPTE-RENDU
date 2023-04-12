@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<note>
+  <etudiant>  
+    <Nom>Hatim Hatim</Nom>
+    <Datedenaissance>31 Janvier 1987</Datedenaissance>
+    <note_finale>11.5</note_finale>
+    <nbrModuleV>9</nbrModuleV>
+    <minimumav>12</minimumav>
+  </etudiant>
+    <etudiant>  
+    <Nom>Hamza Hamza</Nom>
+    <Datedenaissance>2 Fevrier 1987</Datedenaissance>
+    <note_finale>16</note_finale>
+    <nbrModuleV>16</nbrModuleV>
+    <minimumav>12</minimumav>
+  </etudiant>
+  
+   <etudiant>  
+    <Nom>Hassna Hassna</Nom>
+    <Datedenaissance>2 Mars 1987</Datedenaissance>
+    <note_finale>14</note_finale>
+    <nbrModuleV>11</nbrModuleV>
+    <minimumav>12</minimumav>
+  </etudiant>
+  
+   <etudiant>  
+    <Nom>Fadwa Fadwa</Nom>
+    <Datedenaissance>16 Mai 1987</Datedenaissance>
+    <note_finale>15</note_finale>
+    <nbrModuleV>13</nbrModuleV>
+    <minimumav>12</minimumav>
+  </etudiant>
+</note>

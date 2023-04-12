@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+</head>
+<body>
+
+
+<form action="affichagedonnee.jsp" method="get">
+
+Saisir votre nom : <br>
+<input type="text" name="nom"><br>
+Saisir votre prenom : <br>
+<input type="text " name="prenom"><br>
+Saisir votre ecole: <br>
+<input type="text"" name="ecole"><br>
+Specifiez le : <br>
+<textarea rows="2" cols="" name="specification_langues"></textarea> <br>
+Specifiez quelle  sport vous aimez pratiqué : <br>
+<select name="specification_sport"> 
+
+ <option>Foot</option>
+ <option>Basket</option>
+ <option>Aucun</option>
+</select>
+
+<input type="submit" value="Valider">
+
+
+
+
+</form>
+</body>
+</html>

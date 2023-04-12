@@ -1,0 +1,30 @@
+package number;
+
+import java.util.Random;
+
+public class NumberBean {
+	
+	public  int nb ; 
+	
+	public NumberBean()
+	{
+		nb = 0;
+	}
+	
+	NumberBean(int nb)
+	{
+		this.nb = nb ; 
+	}
+	
+	
+	public int getNb() {
+		return nb;
+	}
+
+	public void setNb(int nb) {
+		this.nb = nb;
+	}
+
+
+
+}
